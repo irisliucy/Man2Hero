@@ -92,6 +92,7 @@ var BOSS1_HP = 50.0;
 var BOSS2_HP = 80.0;
 var PIG_HP = 15.0;
 
+
 function preload() {
     gameNew.load.atlasJSONHash('spritesheet','assets/spritesheet.png','assets/spritesheet.json');
 }
