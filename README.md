@@ -1,6 +1,6 @@
 ## Man2Hero -- A game AI with javascript
 
-‘Man 2 Hero’ is a single-player action-puzzle PC game with game AI. The game is developed with javascript in the AI Game Programming course project.
+‘Man 2 Hero’ is a single-player action-puzzle PC game with game AI. The game is developed with javascript in my undergraduate AI Game Programming course project in 2018.
 
 There are 7 levels in total, with game AI implemented at each level. General description of each game level:
 
